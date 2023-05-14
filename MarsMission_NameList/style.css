@@ -1,0 +1,55 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    
+}
+
+
+body {
+  margin: 40px 10%;
+   background-color: #f0e7e7;
+  color: #451804;
+  background-image: url("marsgraphic.png");
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  
+}
+
+.hero-title {
+  font-family: 'Space Mono', monospace;
+  font-weight: 900;
+  text-shadow: 0 0 2px #451804;
+  font-size: 100px;
+  margin: 0;
+}
+
+#top-title {
+    letter-spacing: -3px;
+}
+span {
+  font-family: 'Space Mono', monospace;
+  color: #A52A2A;
+  text-shadow: 0 0 2px #A52A2A;
+  font-size: 100px;
+  font-weight: 900;
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Space Mono', monospace;
+  font-size: 24px;
+  font-weight: 700;
+  color: #8B1A1A;
+}
+
+p {
+  color: #2c0f02;  
+}
+
+
+footer {
+    margin-top: 20px;
+    padding-top: 50px;
+}
+
